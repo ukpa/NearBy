@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NearBy</string>
+    <string name="R.string.google_app_id"></string>
 </resources>
